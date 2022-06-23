@@ -1,0 +1,3 @@
+# AES in Verilog 
+## Summary 
+AES or Advanced Encryption Standard is used for Encryption and Decryption, the encryption and decryption each had 5 algorithms: subBytes, shiftRow, mixColumns, addRoundKey and keyExpansion, these algorithms were also inverted during the decryption process. the project was a requirement of the Advanced Logic Design course. Verilog was used to develop this project and it was Simulated using Modelsim virtually and physically using DE1-SOC
